@@ -1,0 +1,11 @@
+{
+  "name": "angular-chat-app",
+  "version": "1.0.0",
+  "description": "real time angular chat app with socketIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeramiah Cerda",
+  "license": "ISC"
+}
