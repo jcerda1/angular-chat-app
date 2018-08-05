@@ -1,4 +1,4 @@
-import { creatServer, server } from "http";
+import { createServer, server } from "http";
 import * express from "express";
 import * socketIO from "socket.io";
 
@@ -57,3 +57,4 @@ export class ChatServer {
   public getApp(): express.Application {
     return this.app;
   }
+}
